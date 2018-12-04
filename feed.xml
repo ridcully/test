@@ -8,6 +8,15 @@
 
 		
 		<item>
+			<title>Another post</title>
+			<description>&lt;p&gt;asd&lt;/p&gt;
+</description>
+			<link>post-another_post.html</link>
+			<guid isPermaLink="false">post-another_post.html</guid>
+			<pubDate>Tue, 04 Dec 2018 21:29:25 &#43;0100</pubDate>
+		</item>
+		
+		<item>
 			<title>Hello World</title>
 			<description>&lt;p&gt;Hello world.&lt;/p&gt;
 </description>
